@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.ntpsynctimetyping",                              
+  "displayName": "ntpsynctime",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Typing game sample using SRT, Color, Music and event to check that ntpsynctime is working properly.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/OpenUPM_22MinutesToTypeTheUniversNTP.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
