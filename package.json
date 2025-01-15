@@ -2,7 +2,7 @@
 {                                                                                
   "name": "be.elab.ntpsynctimetyping",                              
   "displayName": "ntpsynctime",                        
-  "version": "0.0.1",                         
+  "version": "2025.1.16",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
   "description": "Typing game sample using SRT, Color, Music and event to check that ntpsynctime is working properly.",                         
